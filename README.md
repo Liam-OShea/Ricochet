@@ -1,2 +1,9 @@
 # Ricochet
-# Ricochet
+Ricochet: Sherman’s Fury is a puzzle based 2D platformer set in the not so distant year of 20XX. The game centers around our hero Sherman “Sherm the Worm” Shermanaman, who carries a special weapon called the Ricochet Cannon. In 20XX, Earth is being attacked by giant ants from the planet GIANT ANT COLONY 1X78HBQ. Sherman must make his way to the bottom of an ancient alien layer to retrieve an Antifact which is rumored to have the power to end the war. Ricochet takes some of its inspiration from the Portal series, in which puzzles must be solved using the mechanics of an intriguing and unique weapon. This document seeks to detail the development process of Ricochet, highlighting gameplay aspects, level-design, workflow, and time management.
+
+# Gameplay Highlights
+Ricochet: Sherman’s Fury is a puzzle platformer designed around Sherman’s weapon, the Ricochet Cannon. At the core of the game, the player must navigate their environment and utilize the Ricochet mechanic to activate switches and defeat enemies. The Ricochet Cannon does no damage directly, but instead projectiles must be bounced off walls before they accumulate damage. Additionally, the damage dealt by the projectile increases with number of bounces. The Ricochet mechanic inspires creativity when solving puzzles and defeating enemies, as the player must take care to line their shot up correctly and maximize damage.
+
+To increase puzzle engagement and complexity, two block types were added which affect Ricochet collisions in different ways. One block type is rotatable, allowing the player to line up advanced shots by manipulating the environment. The other block type absorbs the Ricochet projectile, destroying it and ending its trajectory.
+
+Other more common mechanics present in Ricochet include double jumping and collectibles.
